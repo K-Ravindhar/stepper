@@ -1,0 +1,33 @@
+.container{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
+.line{
+    width:21rem;
+    height:2px;
+    background: black;
+    margin-top: 20px;
+}
+.form-names{
+    display: flex;
+    gap:22%;
+}
+.numbers{
+    width:40px;
+    height:35px;
+    border-radius: 50%;
+    background-color: rgba(180, 172, 172, 0.299);
+    text-align: center;
+    padding-top: 10px;
+    border: 2px solid black;
+}
+.buttons{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+#description{
+    text-align: center;
+    font-size: 1.5rem;
+}
