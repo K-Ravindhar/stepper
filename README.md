@@ -24,7 +24,14 @@ A simple and clean **Stepper UI component** using **HTML**, **CSS**, and **JavaS
 
 ## 📸 Preview
 
+![inititial view](image.png)
 
+
+![next step view](image-1.png)
+
+
+![completion view](image-2.png)
 
 ## Link
 
+https://stepper-wheat.vercel.app/
